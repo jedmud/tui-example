@@ -1,6 +1,6 @@
 {
   "name": "@jedmud/tui-example",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Jedmud TUI example module.",
   "main": "src/index.js",
   "scripts": {
@@ -23,14 +23,13 @@
   },
   "homepage": "https://github.com/jedmud/tui-example#readme",
   "dependencies": {
-    "@jedmud/keypress": "^0.0.1",
-    "@jedmud/tui-box-element": "^0.0.1",
-    "@jedmud/tui-elements": "^0.0.1",
-    "@jedmud/tui-metrics-element": "^0.0.1",
-    "@jedmud/tui-prompt-element": "^0.0.1",
-    "@jedmud/tui-scroller-element": "^0.0.1",
-    "@jedmud/tui-slots": "^0.0.1",
-    "@jedmud/tui-timer-element": "^0.0.1",
+    "@jedmud/keypress": "0.x",
+    "@jedmud/tui-box-element": "0.x",
+    "@jedmud/tui-metrics-element": "0.x",
+    "@jedmud/tui-prompt-element": "0.x",
+    "@jedmud/tui-scroller-element": "0.x",
+    "@jedmud/tui-slots": "0.x",
+    "@jedmud/tui-timer-element": "0.x",
     "colors": "^1.4.0",
     "lorem-ipsum": "^2.0.8"
   }
