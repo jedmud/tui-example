@@ -25,6 +25,7 @@
   "dependencies": {
     "@jedmud/keypress": "0.x",
     "@jedmud/tui-box-element": "0.x",
+    "@jedmud/tui-elements": "0.x",
     "@jedmud/tui-metrics-element": "0.x",
     "@jedmud/tui-prompt-element": "0.x",
     "@jedmud/tui-scroller-element": "0.x",

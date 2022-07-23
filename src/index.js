@@ -18,7 +18,7 @@ const keypress = (new Keypress()).listen()
 
 slots.configure(slotsConfig).resolve().write()
 
-const elements = new Elements({
+const elements = (new Elements()).create({
     box: BoxElement,
     prompt: PromptElement,
     scroller: ScrollerElement,

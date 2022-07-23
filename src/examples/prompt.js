@@ -22,7 +22,7 @@ slots.configure([
     }
 ]).resolve().write()
 
-const elements = new Elements({
+const elements = (new Elements()).create({
     prompt: PromptElement,
 }, [
     {
